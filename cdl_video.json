@@ -49,9 +49,9 @@
   },
   {
     "id": 9,
-    "banner": "https://raw.githubusercontent.com/hangle0903/test_db/main/img_for_videos/How%20To%20perform%20a%20truck%20light%20inspection.png",
-    "title": "Pre-trip: A Truck Light Inspection",
-    "link": "https://drive.google.com/uc?export=download&id=1w6QTFn-q4ZExj8ZE0VbGEbw-qAspJ0Ji"
+    "banner": "https://raw.githubusercontent.com/hangle0903/test_db/main/img_for_videos/Pre-trip%20Inspection%20Intro.png",
+    "title": "Pre-trip: Inspection Intro",
+    "link": "https://drive.google.com/uc?export=download&id=1yutKe2aEDsicQDRNQDo_jnxOIesUzMU_"
   },
   {
     "id": 10,
@@ -61,30 +61,78 @@
   },
   {
     "id": 11,
+    "banner": "https://raw.githubusercontent.com/hangle0903/test_db/main/img_for_videos/Pre-trip%20check%20frame%20and%20suspension.png",
+    "title": "Pre-trip: Check Frame And Suspension",
+    "link": "https://drive.google.com/uc?export=download&id=1o9DxojPXl2mXvPY0-DNmcgrxjWv3y7nw"
+  },
+  {
+    "id": 12,
+    "banner": "https://raw.githubusercontent.com/hangle0903/test_db/main/img_for_videos/Pre-trip%20Check%20steering%20components.png",
+    "title": "Pre-trip: Check Steering Components",
+    "link": "https://drive.google.com/uc?export=download&id=14skDBakPQyRbgNIwhDpUGPqzGpYZxa-I"
+  },
+  {
+    "id": 13,
+    "banner": "https://raw.githubusercontent.com/hangle0903/test_db/main/img_for_videos/Pre-Trip%20Checking%20the%20Trailer.png",
+    "title": "Pre-trip: Checking The Trailer",
+    "link": "https://drive.google.com/uc?export=download&id=15jCyh-8Qc29A9DLzJNMPE9pTxKf7oqRW"
+  },
+  {
+    "id": 14,
+    "banner": "https://raw.githubusercontent.com/hangle0903/test_db/main/img_for_videos/Pre-trip%20Coupling%20the%20Vehicle.png",
+    "title": "Pre-trip: Coupling The Vehicle",
+    "link": "https://drive.google.com/uc?export=download&id=1MxPUcizxmcPBcujfdDVF0A7bDjvUhBIA"
+  },
+  {
+    "id": 15,
+    "banner": "https://raw.githubusercontent.com/hangle0903/test_db/main/img_for_videos/Pre-trip%20Front%20End%20Inspection.png",
+    "title": "Pre-trip: Front End Inspection",
+    "link": "https://drive.google.com/uc?export=download&id=15zPVa-_XipTYM1XQ3Np4zeBBR_AjBLyU"
+  },
+  {
+    "id": 16,
+    "banner": "https://raw.githubusercontent.com/hangle0903/test_db/main/img_for_videos/Pre-trip%20front%20tire%20inspection%20ICD.png",
+    "title": "Pre-trip: Front Tire Inspection ICD",
+    "link": "https://drive.google.com/uc?export=download&id=1AtThcyB7dtW9A0vK5NoHU9vj1Xk94Ewk"
+  },
+  {
+    "id": 17,
+    "banner": "https://raw.githubusercontent.com/hangle0903/test_db/main/img_for_videos/Pre-trip%20In%20Cab%20Inspection.png",
+    "title": "Pre-trip: In Cab Inspection",
+    "link": "https://drive.google.com/uc?export=download&id=11gw9CKYLQV6Y5wzEU315Pyx4CMFHtJvo"
+  },
+  {
+    "id": 18,
+    "banner": "https://raw.githubusercontent.com/hangle0903/test_db/main/img_for_videos/How%20To%20perform%20a%20truck%20light%20inspection.png",
+    "title": "Pre-trip: A Truck Light Inspection",
+    "link": "https://drive.google.com/uc?export=download&id=1w6QTFn-q4ZExj8ZE0VbGEbw-qAspJ0Ji"
+  },
+  {
+    "id": 19,
     "banner": "https://raw.githubusercontent.com/hangle0903/test_db/main/img_for_videos/How%20To%20Make%20a%20Safe%20Roadside%20Stop.png",
     "title": "Safety: A Safe Roadside Stop",
     "link": "https://drive.google.com/uc?export=download&id=1Bkw4gB1xp2UgGVSJjivAjrUDAN_h4958"
   },
   {
-    "id": 12,
+    "id": 20,
     "banner": "https://raw.githubusercontent.com/hangle0903/test_db/main/img_for_videos/How%20To%20Prepare%20For%20The%20Road%20Exam%20-%20Left%20Curve.png",
     "title": "Safety: Left Curve",
     "link": "https://drive.google.com/uc?export=download&id=1mnrc-_1dpnpRIs-ecvnApMTiMq6jIWZV"
   },
   {
-    "id": 13,
+    "id": 21,
     "banner": "https://raw.githubusercontent.com/hangle0903/test_db/main/img_for_videos/How%20To%20Prepare%20For%20The%20Road%20Exam%20-%20Right%20Curve.png",
     "title": "Safety: Right Curve",
     "link": "https://drive.google.com/uc?export=download&id=1vm5ktLIgRxZQ5N-j3Odp9BkM0-x_sW1g"
   },
   {
-    "id": 14,
+    "id": 22,
     "banner": "https://raw.githubusercontent.com/hangle0903/test_db/main/img_for_videos/How%20To%20Prepare%20For%20The%20Road%20Exam%20-%20Left%20Turn.png",
     "title": "Safety: Left Turn",
     "link": "https://drive.google.com/uc?export=download&id=1YkJHpB79TDK0OEOZR312mbGwK18ZJ6pa"
   },
   {
-    "id": 16,
+    "id": 23,
     "banner": "https://raw.githubusercontent.com/hangle0903/test_db/main/img_for_videos/How%20To%20Prepare%20For%20The%20Road%20Exam%20-%20Right%20Turn.png",
     "title": "Safety: Right Turn",
     "link": "https://drive.google.com/uc?export=download&id=1KxKWdvj-bTH4AAkf0fUNm_HahYzwFoYz"
